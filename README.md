@@ -15,7 +15,7 @@
 ---
 ##  Hình ảnh minh chứng kết quả (Screenshots)
 Các hình ảnh kết quả thực thi được lưu tại thư mục `screenshots/`:
--`screenshots/cau1_validation_error.png` - Lỗi nhập sai/trống ở màn hình Login.
+- `screenshots/cau1_validation_error.png` - Lỗi nhập sai/trống ở màn hình Login.
 - `screenshots/cau1_validation_success.png` - Đăng nhập thành công.
 - `screenshots/cau2_profile_intent.png` - Màn hình Profile nhận đúng Email.
 - `screenshots/cau3_listview_display.png` - Danh sách ListView hiển thị đủ 5 item.
